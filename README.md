@@ -72,7 +72,7 @@ Username: [rajansharmax](https://github.com/rajansharmax)
 - [GitHub Repository](git@github.com:rajansharmax/php-docker-boilerplate.git)
 
 ### Contact Information:
-- Email: rajansharmax@example.com  
+- Email: rajansharmaa46@gmail.com  
 - GitHub: [rajansharmax](https://github.com/rajansharmax)
 
 ### Contribution Guidelines:
